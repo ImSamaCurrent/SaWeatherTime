@@ -30,7 +30,7 @@ Parfait pour les serveurs RP cherchant à renforcer le réalisme sans compromett
 
 ## 🔧 Commandes & Exports
 
-### 🧾 Commandes (configurables dans `config.lua`)
+### 🧾 Commandes
 
 | Commande          | Description                                         |
 |-------------------|-----------------------------------------------------|
