@@ -67,10 +67,10 @@ local isNight = exports["SaWeatherTime"]:IsNight()
 - Paramètre : true pour activer, false pour désactiver
 ```lua
 -- Pour désactiver la synchro temps météo de SaWeatherTime :
-exports["SaWeatherTime"]:ToggleTimeSync(false)
+exports["SaWeatherTime"]:ToggleWeatherTimeSync(false)
 
 -- Pour la réactiver plus tard :
-exports["SaWeatherTime"]:ToggleTimeSync(true)
+exports["SaWeatherTime"]:ToggleWeatherTimeSync(true)
 ```
 
 ---
